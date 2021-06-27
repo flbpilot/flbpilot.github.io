@@ -11,7 +11,7 @@ body {
 }
 
 .masthead {
-  padding: 3em 0;
+  padding: 1em 0;
   background-image: url('../images/Coding.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -54,7 +54,7 @@ section > h1 {
 }
 
 #footer {
-  padding: 20px 0;
+  padding: 15px 0;
   text-align: center;
   background-color: #111111;
   text-decoration: none;
